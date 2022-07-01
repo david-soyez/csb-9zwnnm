@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://david-soyez.github.io/csb-9zwnnm/static/css/main.465f2b42.chunk.css",
+    "main.js": "https://david-soyez.github.io/csb-9zwnnm/static/js/main.407c5fe4.chunk.js",
+    "main.js.map": "https://david-soyez.github.io/csb-9zwnnm/static/js/main.407c5fe4.chunk.js.map",
+    "runtime-main.js": "https://david-soyez.github.io/csb-9zwnnm/static/js/runtime-main.1c8abec0.js",
+    "runtime-main.js.map": "https://david-soyez.github.io/csb-9zwnnm/static/js/runtime-main.1c8abec0.js.map",
+    "static/js/2.e8d56601.chunk.js": "https://david-soyez.github.io/csb-9zwnnm/static/js/2.e8d56601.chunk.js",
+    "static/js/2.e8d56601.chunk.js.map": "https://david-soyez.github.io/csb-9zwnnm/static/js/2.e8d56601.chunk.js.map",
+    "index.html": "https://david-soyez.github.io/csb-9zwnnm/index.html",
+    "static/css/main.465f2b42.chunk.css.map": "https://david-soyez.github.io/csb-9zwnnm/static/css/main.465f2b42.chunk.css.map",
+    "static/js/2.e8d56601.chunk.js.LICENSE.txt": "https://david-soyez.github.io/csb-9zwnnm/static/js/2.e8d56601.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c8abec0.js",
+    "static/js/2.e8d56601.chunk.js",
+    "static/css/main.465f2b42.chunk.css",
+    "static/js/main.407c5fe4.chunk.js"
+  ]
+}
